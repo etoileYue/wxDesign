@@ -1,0 +1,42 @@
+{
+    "id":1,
+    "name":"Resistance",
+    "pos":[100,150],
+    "Selected":[200, 30],
+    "pin":[0, 15, 200, 15],
+    "composition":{
+        "line":[
+        {
+            "pen":{
+                "width":5,
+                "color":"BLACK"
+            },
+            "relpos":[0, 15, 50, 15]
+        },
+        {
+            "pen":{
+                "width":5,
+                "color":"BLACK"
+            },
+            "relpos":[150, 15, 200, 15]
+        }
+    ],
+        "rectangle":[
+            {
+                "pen":{
+                    "width":5,
+                    "color":"BLACK"
+                },
+                "brush":"GREY",
+                "relpos":[50, 0, 100, 30]
+            }
+        ],
+        "text":[
+            {
+                "content":"R",
+                "color":"RED",
+                "relpos":[95, 35]
+            }
+        ]
+    }
+}
