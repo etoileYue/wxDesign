@@ -42,6 +42,8 @@ public:
     bool isSelected(wxMouseEvent& event);
     void SetPos(wxMouseEvent& event);
     void SetPriority();
+    string getName();
+    int getID();
 
 
 };

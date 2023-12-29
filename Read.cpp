@@ -170,3 +170,12 @@ void Sign::SetPos(wxMouseEvent& event) {
     this->pos[1] = mousePos.y;
 
 }
+
+string Sign::getName() {
+    return this->name;
+}
+
+int Sign::getID() {
+    return this->id;
+}
+
