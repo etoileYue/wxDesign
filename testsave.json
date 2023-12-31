@@ -1,0 +1,55 @@
+{
+	"components" : 
+	[
+		{
+			"id" : 1,
+			"name" : "Resistance"
+		},
+		{
+			"id" : 1,
+			"name" : "Resistance"
+		}
+	],
+	"design" : 
+	{
+		"date" : "2024-01-01 02:39:58",
+		"source" : "",
+		"title" : ""
+	},
+	"lib" : "C:\\Users\\Lenovo\\Desktop\\sign.json",
+	"nets" : 
+	[
+		{
+			"connected" : 
+			{
+				"pin1" : 
+				[
+					"Resistance",
+					"pin1"
+				],
+				"pin2" : 
+				[
+					"Resistance",
+					"pin2"
+				]
+			},
+			"name" : "Resistance"
+		},
+		{
+			"connected" : 
+			{
+				"pin1" : 
+				[
+					"Resistance",
+					"pin1"
+				],
+				"pin2" : 
+				[
+					"Resistance",
+					"pin2"
+				]
+			},
+			"name" : "Resistance"
+		}
+	]
+}
